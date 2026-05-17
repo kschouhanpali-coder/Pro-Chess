@@ -1,4 +1,5 @@
 # Pro-Chess
+
 Pro Chess is a modern browser-based chess game featuring AI gameplay, local multiplayer, move history, timers, PGN export, and a sleek professional interface designed for an immersive and competitive chess experience. Built with smooth gameplay mechanics, responsive design, and interactive UI for players of all skill levels.
 
 # ♟️ Pro Chess
@@ -17,6 +18,14 @@ Regicide Chess offers:
 
 ---
 
+## 🚀 Live Demo
+
+**👉 [Play Pro Chess Now](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html)**
+
+> Open in your browser — no installation required.
+
+---
+
 ## 📸 Preview
 
 ### Main Menu
@@ -30,7 +39,7 @@ Regicide Chess offers:
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
 ### 🎯 Game Modes
 - Play against AI
@@ -87,3 +96,4 @@ Regicide-Chess/
 │   └── gameplay.png
 │
 └── README.md
+```
