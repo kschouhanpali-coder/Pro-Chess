@@ -14,19 +14,6 @@ Pro Chess features AI gameplay, local multiplayer, move history, timers, PGN exp
 
 ---
 
-## 📸 Preview
-
-### Main Menu
-![Main Menu](assets/menu.png)
-
-### Side Selection
-![Choose Side](assets/choose-side.png)
-
-### Gameplay
-![Gameplay](assets/gameplay.png)
-
----
-
 ## ✨ Features
 
 ### 🎮 Game Modes
@@ -81,11 +68,6 @@ Pro-Chess/
 ├── chess.html
 ├── style.css
 ├── script.js
-├── assets/
-│   ├── menu.png
-│   ├── choose-side.png
-│   └── gameplay.png
-│
 └── README.md
 ```
 
