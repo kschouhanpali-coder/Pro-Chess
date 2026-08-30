@@ -1,20 +1,8 @@
-# Pro-Chess
-
-Pro Chess is a modern browser-based chess game featuring AI gameplay, local multiplayer, move history, timers, PGN export, and a sleek professional interface designed for an immersive and competitive chess experience. Built with smooth gameplay mechanics, responsive design, and interactive UI for players of all skill levels.
-
 # ♟️ Pro Chess
 
 A sleek and modern browser-based chess game built with an elegant dark-gold UI inspired by premium strategy games.
 
-Regicide Chess offers:
-- 🎮 Play vs AI
-- 👥 Local 1v1 mode
-- ⏱️ Chess timers with selectable time controls
-- 📜 Move history navigation
-- ♻️ Undo last move
-- 📤 Export PGN support
-- 🏆 Leaderboard system
-- ✨ Smooth immersive interface
+Pro Chess features AI gameplay, local multiplayer, move history, timers, PGN export, and a polished, professional interface designed for an immersive and competitive chess experience — built with smooth gameplay mechanics, responsive design, and an interactive UI for players of all skill levels.
 
 ---
 
@@ -41,7 +29,7 @@ Regicide Chess offers:
 
 ## ✨ Features
 
-### 🎯 Game Modes
+### 🎮 Game Modes
 - Play against AI
 - Local multiplayer (1 vs 1)
 
@@ -52,21 +40,24 @@ Regicide Chess offers:
 - Captured pieces tracking
 - Resign and draw options
 
-### ⏳ Timer System
+### ⏱️ Timer System
 - Multiple time controls
 - Fischer increment support
 - Live countdown timers
 
 ### 📜 Move Management
-- Move history panel
-- Previous/next navigation
+- Move history panel with previous/next navigation
 - Resume latest position
-- Undo functionality
+- Undo last move
 - PGN export support
 
+### 🏆 Extras
+- Leaderboard system
+- Smooth, immersive interface
+
 ### 🎨 UI / UX
-- Premium dark fantasy theme
-- Responsive layout
+- Premium dark-gold fantasy theme
+- Responsive layout for all screen sizes
 - Smooth animations and hover effects
 - Elegant gold typography and accents
 
@@ -77,7 +68,7 @@ Regicide Chess offers:
 - HTML5
 - CSS3
 - JavaScript
-- Chess.js (if used)
+- [Chess.js](https://github.com/jhlywa/chess.js) (if used)
 - Custom UI Design
 
 ---
@@ -85,7 +76,7 @@ Regicide Chess offers:
 ## 📂 Project Structure
 
 ```bash
-Regicide-Chess/
+Pro-Chess/
 │
 ├── chess.html
 ├── style.css
@@ -97,3 +88,26 @@ Regicide-Chess/
 │
 └── README.md
 ```
+
+---
+
+## 🧑‍💻 Getting Started
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/kschouhanpali-coder/Pro-Chess.git
+   ```
+2. Open `chess.html` in your browser
+3. Start playing ♟️
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome. Feel free to open an issue or submit a pull request.
+
+---
+
+## 📄 License
+
+This project is open source and available for personal and educational use.
