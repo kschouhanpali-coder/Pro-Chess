@@ -1,20 +1,55 @@
+<div align="center">
+
 # ♟️ Pro Chess
 
-A sleek and modern browser-based chess game built with an elegant dark-gold UI inspired by premium strategy games.
+**A sleek, browser-based chess game with a premium dark-gold interface.**
 
-Pro Chess features AI gameplay, local multiplayer, move history, timers, PGN export, and a polished, professional interface designed for an immersive and competitive chess experience — built with smooth gameplay mechanics, responsive design, and an interactive UI for players of all skill levels.
+Play against AI, challenge a friend locally, and enjoy a competitive chess experience — all in your browser, no installation required.
+
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Play_Now-c9a44c?style=for-the-badge)](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</div>
+
+---
+
+## 📖 Table of Contents
+
+- [Overview](#-overview)
+- [Live Demo](#-live-demo)
+- [Features](#-features)
+- [Technologies Used](#️-technologies-used)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [Contributing](#-contributing)
+
+---
+
+## 🎯 Overview
+
+**Pro Chess** delivers a full-featured chess experience with clean mechanics and a refined visual style. Built for both casual play and competitive matches, it combines smooth gameplay with a responsive, elegant interface inspired by premium strategy games.
 
 ---
 
 ## 🚀 Live Demo
 
-**👉 [Play Pro Chess Now](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html)**
+<div align="center">
 
-> Open in your browser — no installation required.
+### 👉 [**Play Pro Chess Now**](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html)
+
+*Open in your browser — no installation required.*
+
+</div>
 
 ---
 
 ## ✨ Features
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### 🎮 Game Modes
 - Play against AI
@@ -32,6 +67,9 @@ Pro Chess features AI gameplay, local multiplayer, move history, timers, PGN exp
 - Fischer increment support
 - Live countdown timers
 
+</td>
+<td valign="top" width="50%">
+
 ### 📜 Move Management
 - Move history panel with previous/next navigation
 - Resume latest position
@@ -43,20 +81,25 @@ Pro Chess features AI gameplay, local multiplayer, move history, timers, PGN exp
 - Smooth, immersive interface
 
 ### 🎨 UI / UX
-- Premium dark-gold fantasy theme
-- Responsive layout for all screen sizes
-- Smooth animations and hover effects
+- Premium dark-gold theme
+- Fully responsive layout
+- Smooth animations & hover effects
 - Elegant gold typography and accents
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
-- [Chess.js](https://github.com/jhlywa/chess.js) (if used)
-- Custom UI Design
+| Technology | Purpose |
+|---|---|
+| **HTML5** | Structure & layout |
+| **CSS3** | Styling, theming, and animations |
+| **JavaScript** | Game logic & interactivity |
+| **[Chess.js](https://github.com/jhlywa/chess.js)** | Move validation & game rules *(if used)* |
 
 ---
 
@@ -65,31 +108,44 @@ Pro Chess features AI gameplay, local multiplayer, move history, timers, PGN exp
 ```bash
 Pro-Chess/
 │
-├── chess.html
-├── style.css
-├── script.js
-└── README.md
+├── chess.html      # Main game page
+├── style.css       # Styling and theme
+├── script.js       # Game logic
+└── README.md       # Project documentation
 ```
 
 ---
 
 ## 🧑‍💻 Getting Started
 
-1. Clone the repository
+1. **Clone the repository**
    ```bash
    git clone https://github.com/kschouhanpali-coder/Pro-Chess.git
    ```
-2. Open `chess.html` in your browser
-3. Start playing ♟️
+2. **Navigate into the project folder**
+   ```bash
+   cd Pro-Chess
+   ```
+3. **Open `chess.html`** in your browser
+4. **Start playing** ♟️
 
 ---
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to open an issue or submit a pull request.
+Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues page](https://github.com/kschouhanpali-coder/Pro-Chess/issues) or submit a pull request.
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a pull request
 
 ---
 
-## 📄 License
+<div align="center">
 
-This project is open source and available for personal and educational use.
+**Made with ♟️ and precision — Pro Chess**
+
+</div>
