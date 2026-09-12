@@ -18,11 +18,6 @@ Play against AI, challenge a friend locally, and enjoy a competitive chess exper
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-c9a44c?style=flat-square)
 
-<br/>
-
-![Stars](https://img.shields.io/github/stars/kschouhanpali-coder/Pro-Chess?style=social)
-![Forks](https://img.shields.io/github/forks/kschouhanpali-coder/Pro-Chess?style=social)
-
 </div>
 
 <br/>
@@ -46,6 +41,14 @@ Play against AI, challenge a friend locally, and enjoy a competitive chess exper
 ## 🎯 Overview
 
 **Pro Chess** delivers a full-featured chess experience with clean mechanics and a refined visual style. Built for both casual play and competitive matches, it combines smooth gameplay with a responsive, elegant interface inspired by premium strategy games — all packed into a lightweight, dependency-light web app.
+
+<div align="center">
+
+| ⚡ Fast & Lightweight | 🧠 AI Opponent | 👥 Local 1v1 | 🎨 Dark-Gold Theme |
+|:---:|:---:|:---:|:---:|
+| No installs, runs instantly | Play solo, anytime | Challenge a friend | Premium, polished look |
+
+</div>
 
 <br/>
 
@@ -108,6 +111,8 @@ Play against AI, challenge a friend locally, and enjoy a competitive chess exper
 
 <br/>
 
+---
+
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
@@ -132,6 +137,8 @@ Pro-Chess/
 
 <br/>
 
+---
+
 ## 🧑‍💻 Getting Started
 
 **1. Clone the repository**
@@ -150,6 +157,8 @@ cd Pro-Chess
 
 <br/>
 
+---
+
 ## 🗺️ Roadmap
 
 - [ ] Online multiplayer support
@@ -159,6 +168,8 @@ cd Pro-Chess
 - [ ] Mobile app version
 
 <br/>
+
+---
 
 ## 🤝 Contributing
 
@@ -173,14 +184,22 @@ Feel free to check the [issues page](https://github.com/kschouhanpali-coder/Pro-
 
 <br/>
 
+---
+
 ## 📄 License
 
 This project is open source. Feel free to use, modify, and share it with proper attribution.
 
 <br/>
 
+---
+
 <div align="center">
 
-**Made with ♟️ and precision — Pro Chess**
+### ♟️ Made with precision — Pro Chess
+
+If you enjoyed this project, consider giving it a ⭐ on GitHub!
+
+[⬆ Back to top](#️-pro-chess)
 
 </div>
