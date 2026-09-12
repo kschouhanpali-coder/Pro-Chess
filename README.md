@@ -18,16 +18,22 @@ Play against AI, challenge a friend locally, and enjoy a competitive chess exper
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-c9a44c?style=flat-square)
 
+<br/>
+
+![Stars](https://img.shields.io/github/stars/kschouhanpali-coder/Pro-Chess?style=social)
+![Forks](https://img.shields.io/github/forks/kschouhanpali-coder/Pro-Chess?style=social)
+
 </div>
 
 <br/>
+
+---
 
 ## 📖 Table of Contents
 
 - [Overview](#-overview)
 - [Live Demo](#-live-demo)
 - [Features](#-features)
-- [Preview](#-preview)
 - [Technologies Used](#️-technologies-used)
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
@@ -99,20 +105,6 @@ Play against AI, challenge a friend locally, and enjoy a competitive chess exper
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 🖼️ Preview
-
-<div align="center">
-
-*Add a screenshot or GIF of the board here for extra polish:*
-
-```markdown
-![Pro Chess Screenshot](assets/screenshot.png)
-```
-
-</div>
 
 <br/>
 
