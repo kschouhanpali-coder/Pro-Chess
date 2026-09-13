@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/♟️-PRO%20CHESS-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=c9a44c" alt="Pro Chess" height="60"/>
+# ♟️ PRO CHESS
+
+<img src="https://img.shields.io/badge/-%E2%99%9F%20PREMIUM%20CHESS%20EXPERIENCE%20%E2%99%9F-0d0d0d?style=flat-square&labelColor=0d0d0d&color=c9a44c" alt="Premium Chess Experience"/>
 
 ### A premium, browser-based chess experience — dark-gold interface, zero installation
+
+**📋 Project Documentation**
 
 <br/>
 
