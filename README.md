@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" id="top">
 
 # ♟️ PRO CHESS
 
@@ -31,14 +31,6 @@
   <img src="https://img.shields.io/badge/dependencies-minimal-c9a44c?style=flat-square" alt="dependencies"/>
   <img src="https://img.shields.io/badge/PRs-welcome-c9a44c?style=flat-square" alt="PRs welcome"/>
 </p>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
