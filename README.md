@@ -10,6 +10,14 @@
 
 <br/>
 
+### 🔗 [**LIVE DEMO → Play Pro Chess Now**](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html)
+
+[![▶ Play Pro Chess Now](https://img.shields.io/badge/▶_PLAY_PRO_CHESS_NOW-c9a44c?style=for-the-badge&labelColor=0d0d0d)](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html)
+
+<sub>No installs · No sign-up · Runs instantly in your browser</sub>
+
+<br/>
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -23,12 +31,6 @@
   <img src="https://img.shields.io/badge/dependencies-minimal-c9a44c?style=flat-square" alt="dependencies"/>
   <img src="https://img.shields.io/badge/PRs-welcome-c9a44c?style=flat-square" alt="PRs welcome"/>
 </p>
-
-<br/>
-
-[![▶ Play Pro Chess Now](https://img.shields.io/badge/▶_PLAY_PRO_CHESS_NOW-c9a44c?style=for-the-badge&labelColor=0d0d0d)](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html)
-
-<sub>No installs · No sign-up · Runs instantly in your browser</sub>
 
 </div>
 
@@ -46,10 +48,10 @@
 
 | | | |
 |---|---|---|
-| [🎯 Overview](#-overview) | [🧭 Objectives](#-objectives) | [✨ Features](#-features) |
-| [🛠️ Tech Stack](#️-tech-stack) | [📂 Project Structure](#-project-structure) | [🧑‍💻 Getting Started](#-getting-started) |
-| [🎮 Usage Guide](#-usage-guide) | [🗺️ Roadmap](#️-roadmap) | [🤝 Contributing](#-contributing) |
-| [❓ FAQ](#-faq) | [📄 License](#-license) | [👤 Credits](#-credits--contact) |
+| [🔗 Live Demo](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html) | [🎯 Overview](#-overview) | [🧭 Objectives](#-objectives) |
+| [✨ Features](#-features) | [🛠️ Tech Stack](#️-tech-stack) | [📂 Project Structure](#-project-structure) |
+| [🧑‍💻 Getting Started](#-getting-started) | [🎮 Usage Guide](#-usage-guide) | [🗺️ Roadmap](#️-roadmap) |
+| [🤝 Contributing](#-contributing) | [❓ FAQ](#-faq) | [📄 License](#-license) |
 
 <br/>
 
