@@ -6,8 +6,6 @@
 
 ### A premium, browser-based chess experience — dark-gold interface, zero installation
 
-**📋 Project Documentation**
-
 <br/>
 
 <p>
@@ -37,7 +35,15 @@
 | [🎮 Usage Guide](#-usage-guide) | [🗺️ Roadmap](#️-roadmap) | [🤝 Contributing](#-contributing) |
 | [❓ FAQ](#-faq) | [📄 License](#-license) | [👤 Credits & Contact](#-credits--contact) |
 
-### 🔗 [Live Demo](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html)
+### 🔗 Live Demo
+
+<div align="center">
+
+[![▶ Play Pro Chess Now](https://img.shields.io/badge/▶_PLAY_PRO_CHESS_NOW-c9a44c?style=for-the-badge&labelColor=0d0d0d)](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html)
+
+<sub>No installs · No sign-up · Runs instantly in your browser</sub>
+
+</div>
 
 <br/>
 
