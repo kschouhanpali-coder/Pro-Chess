@@ -38,11 +38,12 @@
 
 | | | |
 |---|---|---|
-| [🔗 Live Demo](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html) | [🎯 Overview](#-overview) | [🧭 Objectives](#-objectives) |
-| [✨ Features](#-features) | [🛠️ Tech Stack](#️-tech-stack) | [📂 Project Structure](#-project-structure) |
-| [🧑‍💻 Getting Started](#-getting-started) | [🎮 Usage Guide](#-usage-guide) | [🗺️ Roadmap](#️-roadmap) |
-| [🤝 Contributing](#-contributing) | [❓ FAQ](#-faq) | [📄 License](#-license) |
-| [👤 Credits & Contact](#-credits--contact) | | |
+| [🎯 Overview](#-overview) | [🧭 Objectives](#-objectives) | [✨ Features](#-features) |
+| [🛠️ Tech Stack](#️-tech-stack) | [📂 Project Structure](#-project-structure) | [🧑‍💻 Getting Started](#-getting-started) |
+| [🎮 Usage Guide](#-usage-guide) | [🗺️ Roadmap](#️-roadmap) | [🤝 Contributing](#-contributing) |
+| [❓ FAQ](#-faq) | [📄 License](#-license) | [👤 Credits & Contact](#-credits--contact) |
+
+**🔗 [Live Demo](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html)**
 
 <br/>
 
@@ -301,6 +302,6 @@ For bugs, feature requests, or questions, open an issue on the
 
 <br/>
 
-[⬆ Back to top](#top)
+**🔗 [Live Demo](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html)** · **[⬆ Back to top](#top)**
 
 </div>
