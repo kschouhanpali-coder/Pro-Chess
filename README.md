@@ -115,41 +115,87 @@ python -m http.server 8000
 
 ---
 
-## FAQ
+## Game Modes
 
-**Do I need to install anything?**
-No — just open `chess.html` in a browser.
+### 1. **AI Opponent**
+Challenge the computer with three difficulty levels:
+- **Easy** — Ideal for beginners
+- **Medium** — Balanced challenge for intermediate players
+- **Hard** — Tough competition for advanced players
 
-**Does it work on mobile?**
-Yes — the layout is fully responsive.
+Choose to play as **White** (first move advantage) or **Black**.
 
-**Can I play online?**
-Not yet — currently supports local 1v1 on the same device.
-
-**Can I save games?**
-Yes — use the PGN export feature.
-
----
-
-## Roadmap
-
-- Online multiplayer support
-- Adjustable AI difficulty levels
-- Sound effects
-- Game history / saved games
-- Mobile app version
+### 2. **Local Multiplayer (1v1)**
+Play against a friend on the same device. Perfect for casual matches, tournaments, or teaching chess.
 
 ---
 
-## Contributing
+## Time Controls
 
-Contributions are welcome! 
+Configure the game pace to your preference:
+- **1, 3, 5, 10, 15, 30 minutes** — Standard time formats
+- **Fischer Increment (+2s)** — Gain extra time per move for dynamic gameplay
 
-1. Fork the project
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a pull request
+Live countdown display keeps both players aware of remaining time.
+
+---
+
+## Advanced Features
+
+**AI Difficulty Settings**
+Adjust opponent strength based on your skill level — from beginner-friendly to grandmaster-level tactics.
+
+**Move History & Navigation**
+- Step through every move with **Prev/Next** controls
+- **Undo Last Move** to correct mistakes
+- **Resume** to jump back to the latest position
+
+**Captured Pieces Tracking**
+Monitor what each player has captured — displayed clearly for strategy planning.
+
+**Pawn Promotion**
+Seamlessly choose your promotion piece (Queen, Rook, Bishop, Knight) when pawns reach the final rank.
+
+**Leaderboard System**
+Track player statistics:
+- Win/Loss/Draw records
+- Win rate percentages
+- Player rankings
+- Clear leaderboard to start fresh
+
+**PGN Export**
+Export completed games in standard Portable Game Notation format for archiving or sharing with others.
+
+**Audio Control**
+Toggle sound effects on/off — mute when you need focus or silence.
+
+---
+
+## Performance
+
+- **Zero Load Time** — Runs instantly, no assets to download
+- **Lightweight** — ~100KB total (HTML + CSS + JS)
+- **Responsive Design** — Adapts seamlessly from mobile to desktop
+- **Optimized AI** — Fast move calculations even on low-end devices
+- **No Dependencies** — Vanilla JavaScript, no frameworks or libraries
+
+---
+
+## Browser Support
+
+Works on any modern browser:
+- Chrome/Edge (latest)
+- Firefox (latest)
+- Safari (latest)
+- Mobile browsers (iOS Safari, Chrome Mobile)
+
+---
+
+## Credits
+
+Built with pure HTML5, CSS3, and JavaScript by the community.
+
+**Issues & Suggestions?** [Open an issue on GitHub](https://github.com/kschouhanpali-coder/Pro-Chess/issues)
 
 ---
 
