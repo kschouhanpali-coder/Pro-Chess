@@ -1,172 +1,188 @@
-<div align="center" id="top">
-
-# ♟️ PRO CHESS
-
-<img src="https://img.shields.io/badge/-%E2%99%9F%20PREMIUM%20CHESS%20EXPERIENCE%20%E2%99%9F-0d0d0d?style=flat-square&labelColor=0d0d0d&color=c9a44c" alt="Premium Chess Experience"/>
-
-### A premium, browser-based chess experience — dark-gold interface, zero installation
-
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/status-active-2ea44f?style=flat-square" alt="status"/>
-  <img src="https://img.shields.io/badge/license-MIT-c9a44c?style=flat-square" alt="license"/>
-  <img src="https://img.shields.io/badge/build-passing-2ea44f?style=flat-square" alt="build"/>
-  <img src="https://img.shields.io/badge/dependencies-minimal-c9a44c?style=flat-square" alt="dependencies"/>
-  <img src="https://img.shields.io/badge/PRs-welcome-c9a44c?style=flat-square" alt="PRs welcome"/>
-</p>
-
-### 🔗 Live Demo
-
-[![▶ Play Pro Chess Now](https://img.shields.io/badge/▶_PLAY_PRO_CHESS_NOW-c9a44c?style=for-the-badge&labelColor=0d0d0d)](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html)
-
-<sub>No installs · No sign-up · Runs instantly in your browser</sub>
-
-</div>
-
-<br/>
-
----
-
-## 🌟 Overview
-
-**Pro Chess** is a full-featured chess game built with **HTML5, CSS3, and JavaScript** — no frameworks, no dependencies, no installation needed. Play against AI, challenge a friend, and enjoy a premium dark-gold interface designed for the ultimate chess experience.
-
-| ⚡ | 🧠 | 👥 | 🎨 |
-|:---:|:---:|:---:|:---:|
-| **Fast & Lightweight** | **AI Opponent** | **Local 1v1** | **Dark-Gold Theme** |
-| Instant play | 3 difficulty levels | Same device | Premium interface |
-
-<br/>
-
----
-
-## ✨ Features
-
-### 🎯 Game Modes
-- 🤖 **AI Challenge** — Play vs computer (Easy/Medium/Hard)
-- 👥 **Local Multiplayer** — 1v1 on same device
-
-### ⏱️ Time Controls
-- 1 • 3 • 5 • 10 • 15 • 30 minutes
-- Fischer Increment (+2s) support
-
-### 🎮 Core Features
-- ♔ Legal move validation
-- 📜 Move history with navigation
-- ↩️ Undo last move
-- 📋 PGN export
-- 📊 Leaderboard system
-- 🎨 Premium dark-gold theme
-- 📱 Fully responsive design
-
-<br/>
-
----
-
-## 🚀 Quick Start
-
-### 🎯 Play Online (No Setup)
-**[▶️ PLAY NOW](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html)** — Click and start instantly!
-
-### 💻 Play Locally
-```bash
-git clone https://github.com/kschouhanpali-coder/Pro-Chess.git
-cd Pro-Chess
-# Open chess.html in your browser
-```
-
-**Optional:** Serve locally
-```bash
-python -m http.server 8000
-# Visit http://localhost:8000/chess.html
-```
-
-<br/>
-
----
-
-## 📂 Project Structure
-
-```
-Pro-Chess/
-├── chess.html      # Main game page (entry point)
-├── style.css       # Styling & dark-gold theme
-├── script.js       # Game logic, AI & interactivity
-└── README.md       # Documentation
-```
-
-<br/>
-
----
-
-## 🎮 How to Play
-
-```
-1️⃣  Launch the game
-    ↓
-2️⃣  Choose: AI or 1v1
-    ↓
-3️⃣  Pick time control (optional)
-    ↓
-4️⃣  Click/drag pieces to move
-    ↓
-5️⃣  Export as PGN
-```
-
-<br/>
-
----
-
-## 🛠️ Tech Stack
-
-| Layer | Technology | Role |
-|:---:|:---:|---|
-| 🧱 Structure | **HTML5** | Semantic board & controls |
-| 🎨 Styling | **CSS3** | Theme, responsiveness, animations |
-| ⚙️ Logic | **JavaScript** | Game state, AI, interactivity |
-
-**No build tools • No frameworks • Pure vanilla code • ~50KB total**
-
-<br/>
-
----
-
-## 📱 Compatibility
-
-✅ **Desktop** — Chrome, Firefox, Safari, Edge  
-✅ **Mobile** — iOS Safari, Chrome Mobile  
-✅ **Responsive** — All screen sizes  
-✅ **Fast** — Instant load, zero lag  
-
-<br/>
-
----
-
-## 📄 License
-
-Released under the **MIT License** — free to use, modify, and share with proper attribution.
-
-<br/>
-
 <div align="center">
 
-### 🎯 Ready to Play?
-
-**[▶️ START PLAYING NOW](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html)**
-
-<sub>No account needed • No downloads • Pure JavaScript magic ✨</sub>
-
-<br/>
-
-**[📦 GitHub](https://github.com/kschouhanpali-coder/Pro-Chess)** · **[📋 Issues](https://github.com/kschouhanpali-coder/Pro-Chess/issues)** · **[⬆ Back to top](#top)**
-
-**Enjoy! ♟️**
+# Pro Chess ♟️
 
 </div>
+
+A modern, feature-rich chess application with AI opponent, local multiplayer, and competitive leaderboard system.
+
+## 🎮 Features
+
+- **Play vs AI** - Challenge an intelligent AI opponent with adjustable difficulty levels
+- **Local Multiplayer** - Play 1v1 against friends on the same device
+- **Leaderboard System** - Track wins, losses, draws, and win rates
+- **Time Controls** - Multiple time formats including Fischer +2s increment
+- **Move History** - Review all moves with previous/next navigation
+- **PGN Export** - Export games in standard PGN (Portable Game Notation) format
+- **Difficulty Levels** - Adjustable AI difficulty (Easy, Medium, Hard)
+- **Real-time Timers** - Visual countdown timers for both players
+- **Move Validation** - Automatic detection of captured pieces and game state
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Web browser with JavaScript enabled
+- Modern browser (Chrome, Safari, Firefox, Edge)
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/kschouhanpali-coder/pro-chess.git
+cd pro-chess
+```
+
+2. Open the project in your local environment:
+```bash
+# Using Python 3
+python -m http.server 8000
+
+# Or using Node.js
+npx http-server
+```
+
+3. Open your browser and navigate to:
+```
+http://localhost:8000
+```
+
+## 📖 How to Play
+
+### Main Menu
+- **Play vs AI** - Start a game against the computer
+- **1 vs 1 Local** - Play against another player on the same device
+- **Leaderboard** - View player statistics and rankings
+
+### Game Screen
+1. **Choose Your Side** - Select to play as White (first move) or Black
+2. **Make Moves** - Click and drag pieces to move them
+3. **Time Management** - Monitor your timer (default: 5 minutes with Fischer +2s)
+4. **View History** - Use Previous/Next buttons to review moves
+5. **End Game** - Resign, draw offer, or checkmate
+
+### Game Controls
+- **Resign** - Concede the game
+- **Draw Offer** - Propose a draw to your opponent
+- **Undo Last Move** - Return to previous board state
+- **Export PGN** - Save your game in standard notation
+- **Back to Menu** - Return to main menu
+
+## 🎯 Game Modes
+
+### Play vs AI
+Challenge the computer at your preferred difficulty level:
+- **Easy** - Basic strategy, limited lookahead
+- **Medium** - Balanced play, tactical awareness
+- **Hard** - Advanced tactics, positional mastery
+
+### 1 vs 1 Local
+Perfect for learning or casual play with friends. Both players use the same device with turn-based play.
+
+### Leaderboard
+Track your performance across all game modes:
+- **Rank** - Your position in the standings
+- **Wins** - Total victories
+- **Losses** - Total defeats
+- **Draws** - Stalemates and agreed draws
+- **Win Rate** - Percentage of games won
+
+## ⚙️ Time Controls
+
+Default configuration:
+- **Base Time**: 5 minutes per player
+- **Increment**: Fischer +2 seconds (2 seconds added per move)
+
+## 🛠️ Technologies
+
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Board Rendering**: Canvas/SVG
+- **AI Engine**: Chess algorithm with move validation
+- **Storage**: Browser LocalStorage for leaderboard persistence
+- **Hosting**: GitHub Pages
+
+## 📋 Project Structure
+
+```
+pro-chess/
+├── index.html              # Main entry point
+├── css/
+│   └── styles.css         # Application styling
+├── js/
+│   ├── chess.js           # Core chess engine
+│   ├── ai.js              # AI opponent logic
+│   ├── ui.js              # User interface management
+│   └── leaderboard.js     # Leaderboard functionality
+└── assets/
+    └── pieces/            # Chess piece graphics
+```
+
+## 🎮 Keyboard Shortcuts
+
+- `Esc` - Return to main menu
+- `Z` - Undo last move (local games only)
+- `E` - Export game as PGN
+
+## 💾 Data Storage
+
+Player statistics and leaderboard data are stored locally using:
+- **Browser LocalStorage** - Persists data across sessions
+- **PGN Format** - Standard chess notation for game export
+
+Clear your browser cache to reset the leaderboard.
+
+## 🐛 Known Issues & Limitations
+
+- Three-fold repetition draw not automatically detected
+- Fifty-move rule requires manual draw claim
+- Offline play only (no online multiplayer)
+
+## 📝 License
+
+This project is licensed under the MIT License - see LICENSE file for details.
+
+## 🤝 Contributing
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+### Areas for Contribution:
+- Enhanced AI algorithm improvements
+- Additional time control formats
+- Online multiplayer integration
+- Mobile app development
+- UI/UX enhancements
+- Bug fixes and optimizations
+
+## 📧 Support
+
+For bug reports or feature requests, please create an issue on GitHub.
+
+## 🏆 Roadmap
+
+- [ ] Online multiplayer support
+- [ ] Tournament mode
+- [ ] Advanced AI with opening book
+- [ ] Puzzle mode
+- [ ] Game analysis and evaluation
+- [ ] Mobile app (iOS/Android)
+- [ ] Multiplayer friends list
+- [ ] Rated games and rating system
+
+## 🙏 Acknowledgments
+
+- Chess piece graphics and design inspiration
+- Open-source chess engine libraries
+- Community feedback and contributions
+
+---
+
+**Play, Learn, and Master Chess with Pro Chess!** ♟️
+
+[Play Online](https://kschouhanpali-coder.github.io/pro-chess) | [GitHub Repository](https://github.com/kschouhanpali-coder/pro-chess)
+
+*Last Updated: September 2026*
