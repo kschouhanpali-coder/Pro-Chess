@@ -1,29 +1,32 @@
+<div align="center" id="top">
+
 # ♟️ PRO CHESS
 
-<div align="center">
+<img src="https://img.shields.io/badge/-%E2%99%9F%20PREMIUM%20CHESS%20EXPERIENCE%20%E2%99%9F-0d0d0d?style=flat-square&labelColor=0d0d0d&color=c9a44c" alt="Premium Chess Experience"/>
 
-### 🎮 Premium Chess Experience • Zero Installation • Play Instantly
-
-<br/>
-
-```
-████████████████████████████████████████████
-█  A Premium Chess Game Built With Pure JS  █
-████████████████████████████████████████████
-```
+### A premium, browser-based chess experience — dark-gold interface, zero installation
 
 <br/>
 
-[![Play Pro Chess](https://img.shields.io/badge/▶️_PLAY_NOW-FFD700?style=for-the-badge&labelColor=1a1a1a&logoColor=white)](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html)
-&nbsp;&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/kschouhanpali-coder/Pro-Chess)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/status-active-2ea44f?style=flat-square" alt="status"/>
+  <img src="https://img.shields.io/badge/license-MIT-c9a44c?style=flat-square" alt="license"/>
+  <img src="https://img.shields.io/badge/build-passing-2ea44f?style=flat-square" alt="build"/>
+  <img src="https://img.shields.io/badge/dependencies-minimal-c9a44c?style=flat-square" alt="dependencies"/>
+  <img src="https://img.shields.io/badge/PRs-welcome-c9a44c?style=flat-square" alt="PRs welcome"/>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MIT License](https://img.shields.io/badge/MIT-License-green?style=flat-square)
+### 🔗 Live Demo
+
+[![▶ Play Pro Chess Now](https://img.shields.io/badge/▶_PLAY_PRO_CHESS_NOW-c9a44c?style=for-the-badge&labelColor=0d0d0d)](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html)
+
+<sub>No installs · No sign-up · Runs instantly in your browser</sub>
 
 </div>
 
@@ -31,12 +34,14 @@
 
 ---
 
-## 🌟 Highlights
+## 🌟 Overview
 
-| 🤖 | 👥 | ⏱️ | 📊 |
+**Pro Chess** is a full-featured chess game built with **HTML5, CSS3, and JavaScript** — no frameworks, no dependencies, no installation needed. Play against AI, challenge a friend, and enjoy a premium dark-gold interface designed for the ultimate chess experience.
+
+| ⚡ | 🧠 | 👥 | 🎨 |
 |:---:|:---:|:---:|:---:|
-| **AI Opponent** | **Local 1v1** | **Time Controls** | **Leaderboard** |
-| 3 Difficulty Levels | Play with Friends | Multiple Formats | Track Stats |
+| **Fast & Lightweight** | **AI Opponent** | **Local 1v1** | **Dark-Gold Theme** |
+| Instant play | 3 difficulty levels | Same device | Premium interface |
 
 <br/>
 
@@ -45,20 +50,20 @@
 ## ✨ Features
 
 ### 🎯 Game Modes
-- 🤖 **AI Challenge** — Play against computer (Easy/Medium/Hard)
+- 🤖 **AI Challenge** — Play vs computer (Easy/Medium/Hard)
 - 👥 **Local Multiplayer** — 1v1 on same device
 
 ### ⏱️ Time Controls
 - 1 • 3 • 5 • 10 • 15 • 30 minutes
 - Fischer Increment (+2s) support
 
-### 🎮 Game Features
+### 🎮 Core Features
 - ♔ Legal move validation
-- 📜 Move history with Prev/Next
+- 📜 Move history with navigation
 - ↩️ Undo last move
 - 📋 PGN export
 - 📊 Leaderboard system
-- 🎨 Dark-gold premium theme
+- 🎨 Premium dark-gold theme
 - 📱 Fully responsive design
 
 <br/>
@@ -68,22 +73,33 @@
 ## 🚀 Quick Start
 
 ### 🎯 Play Online (No Setup)
-Click the button above and start playing instantly!
+**[▶️ PLAY NOW](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html)** — Click and start instantly!
 
 ### 💻 Play Locally
 ```bash
-# Clone the repository
 git clone https://github.com/kschouhanpali-coder/Pro-Chess.git
 cd Pro-Chess
-
 # Open chess.html in your browser
-# That's it! 🎉
 ```
 
-**Optional:** Serve locally to avoid file restrictions
+**Optional:** Serve locally
 ```bash
 python -m http.server 8000
 # Visit http://localhost:8000/chess.html
+```
+
+<br/>
+
+---
+
+## 📂 Project Structure
+
+```
+Pro-Chess/
+├── chess.html      # Main game page (entry point)
+├── style.css       # Styling & dark-gold theme
+├── script.js       # Game logic, AI & interactivity
+└── README.md       # Documentation
 ```
 
 <br/>
@@ -101,24 +117,22 @@ python -m http.server 8000
     ↓
 4️⃣  Click/drag pieces to move
     ↓
-5️⃣  Export game as PGN
+5️⃣  Export as PGN
 ```
 
 <br/>
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Tech Stack
 
-```
-HTML5  ┌─────────────────────────────┐
-CSS3   │   PRO CHESS ARCHITECTURE    │
-JS     └─────────────────────────────┘
-       • No frameworks
-       • No dependencies
-       • Pure vanilla code
-       • ~50KB total size
-```
+| Layer | Technology | Role |
+|:---:|:---:|---|
+| 🧱 Structure | **HTML5** | Semantic board & controls |
+| 🎨 Styling | **CSS3** | Theme, responsiveness, animations |
+| ⚙️ Logic | **JavaScript** | Game state, AI, interactivity |
+
+**No build tools • No frameworks • Pure vanilla code • ~50KB total**
 
 <br/>
 
@@ -137,7 +151,7 @@ JS     └───────────────────────�
 
 ## 📄 License
 
-MIT License — Free to use, modify, and distribute
+Released under the **MIT License** — free to use, modify, and share with proper attribution.
 
 <br/>
 
@@ -151,8 +165,8 @@ MIT License — Free to use, modify, and distribute
 
 <br/>
 
-**Questions?** [Open an issue on GitHub](https://github.com/kschouhanpali-coder/Pro-Chess/issues)
+**[📦 GitHub](https://github.com/kschouhanpali-coder/Pro-Chess)** · **[📋 Issues](https://github.com/kschouhanpali-coder/Pro-Chess/issues)** · **[⬆ Back to top](#top)**
 
-**Enjoy the game! ♟️**
+**Enjoy! ♟️**
 
 </div>
