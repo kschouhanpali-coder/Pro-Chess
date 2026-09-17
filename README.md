@@ -1,26 +1,27 @@
 <div align="center">
 
-# ♟️ Pro Chess ♟️
+# 📈 StockSphere 📈
 
-### Master the Game of Kings
+### Market Intelligence, Simplified
 
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![Built with Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 
-A modern chess application with AI opponent, local multiplayer, and leaderboard system.
+A real-time stock market dashboard with live quotes, technical analysis, multi-stock comparison, and news.
 
 </div>
 
 ---
 
-## 🎮 Live Demo
+## 🚀 Live Demo
 
 <div align="center">
 
-### **[▶️ PLAY NOW - Live Demo](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html)**
+### **[▶️ OPEN APP - Live Demo](https://stock-sphere-ipdbyuaaiwt9wabxeqepc9.streamlit.app)**
 
-*Click above to play the game directly in your browser!*
+*Click above to explore StockSphere directly in your browser!*
 
 </div>
 
@@ -28,72 +29,75 @@ A modern chess application with AI opponent, local multiplayer, and leaderboard 
 
 ## ✨ Features
 
-- 🤖 **Play vs AI** - Challenge the computer with 3 difficulty levels (Easy, Medium, Hard)
-- 👥 **Local Multiplayer** - Play 1v1 with friends on the same device
-- 🏆 **Leaderboard** - Track wins, losses, draws, and win rates
-- 📋 **Move History** - Review moves with previous/next navigation
-- 📄 **PGN Export** - Save games in standard notation
-- ⏱️ **Time Controls** - 5 minutes with Fischer +2s increment
+- 🔍 **Symbol Search & Watchlist** — search any ticker and pin it to a persistent watchlist
+- 📊 **Overview Dashboard** — live Price, High, Low, and Volume with a candlestick chart
+- 📉 **Technical Analysis** — indicators like RSI plotted alongside price action
+- ⚖️ **Compare Stocks** — relative performance % chart across multiple watchlist tickers
+- 💰 **Financials** — Revenue, Profit Margin, Beta, and a full company summary
+- 📰 **Latest News** — aggregated headlines from top financial sources
+- 🌐 **Live Market Ticker** — scrolling banner for S&P 500, Dow Jones, NASDAQ, Gold, and FTSE 100
+- 🕐 **Custom Timelines** — adjustable chart range (1 Month and beyond)
 
 ---
 
-## 🚀 Quick Start
+## 🏁 Quick Start
 
-### Play Online
-No installation needed! [Play the live demo](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html)
+### Use Online
+No installation needed! [Open the live demo](https://stock-sphere-ipdbyuaaiwt9wabxeqepc9.streamlit.app)
 
 ### Run Locally
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/kschouhanpali-coder/pro-chess.git
-cd pro-chess
+git clone https://github.com/yourusername/stocksphere.git
+cd stocksphere
 ```
 
-2. Start a local server:
+2. Install dependencies:
 ```bash
-python -m http.server 8000
+pip install streamlit
 ```
 
-3. Open `http://localhost:8000` in your browser
+3. Run the app:
+```bash
+streamlit run app.py
+```
+
+4. Open `http://localhost:8501` in your browser
 
 ---
 
-## 🎯 How to Play
+## 🎯 How to Use
 
-1. **Main Menu** - Select your game mode:
-   - Play vs AI
-   - 1 vs 1 Local
-   - Leaderboard
-
-2. **Choose Your Side** - Play as White (first move) or Black
-
-3. **Make Moves** - Click and drag pieces to move them
-
-4. **Game Controls** - Use these buttons during gameplay:
-   - **Resign** - Concede the game
-   - **Draw Offer** - Propose a draw
-   - **Undo Move** - Return to previous state
-   - **Export PGN** - Save your game
+1. **Search a Symbol** — enter a ticker (e.g., `NVDA`) in the search bar
+2. **Add to Watchlist** — save tickers for quick access anytime
+3. **Explore Tabs**:
+   - **Overview** — quotes and candlestick chart
+   - **Analysis** — technical indicators (RSI, etc.)
+   - **Compare** — benchmark performance vs. watchlist stocks
+   - **Financials** — revenue, margins, beta, company summary
+   - **News** — latest headlines
+4. **Adjust Timeline** — switch chart range from the sidebar dropdown
 
 ---
 
-## 🎮 Game Modes
+## 📑 Dashboard Sections
 
-| Mode | Description |
-|------|-------------|
-| **AI Battle** | Play against computer with adjustable difficulty |
-| **Local Multiplayer** | Two players on the same device |
-| **Leaderboard** | View rankings and player statistics |
+| Section | Description |
+|---------|-------------|
+| **Overview** | Real-time price, high/low, volume, and candlestick chart |
+| **Analysis** | Technical indicators overlaid on price history |
+| **Compare** | Relative performance across multiple stocks |
+| **Financials** | Revenue, profit margin, beta, and company summary |
+| **News** | Curated latest headlines per stock |
 
 ---
 
 ## 💻 Technologies Used
 
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Board:** Canvas/SVG rendering
-- **Storage:** Browser LocalStorage
-- **Notation:** PGN (Portable Game Notation)
+- **Framework:** Streamlit (Python)
+- **Charts:** Plotly-style interactive candlestick/line charts (zoom, pan, export)
+- **Data:** Live market & financial data feeds
 
 ---
 
@@ -105,8 +109,8 @@ MIT License - Free to use and modify
 
 <div align="center">
 
-**[Play Now](https://kschouhanpali-coder.github.io/Pro-Chess/chess.html) | [GitHub](https://github.com/kschouhanpali-coder/pro-chess) | [Report Issues](https://github.com/kschouhanpali-coder/pro-chess/issues)**
+**[Live Demo](https://stock-sphere-ipdbyuaaiwt9wabxeqepc9.streamlit.app) | [GitHub](https://github.com/yourusername/stocksphere) | [Report Issues](https://github.com/yourusername/stocksphere/issues)**
 
-*Master Chess. Have Fun. Track Progress.* ♟️
+*Track Smarter. Compare Faster. Invest Wiser.* 📈
 
 </div>
